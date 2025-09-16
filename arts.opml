@@ -1,1 +1,16 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <head>
+    <title>Arts feeds</title>
+  </head>
+  <body>
+    <outline text="Colossal" title="Colossal" type="rss" xmlUrl="https://www.thisiscolossal.com/feed/"/>
+    <outline text="Hyperallergic" title="Hyperallergic" type="rss" xmlUrl="https://hyperallergic.com/feed/"/>
+    <outline text="Great art on Bluesky" title="Great art on Bluesky" type="rss" xmlUrl="https://art.feediverse.org/"/>
+    <outline text="Fonts In Use" title="Fonts In Use" type="rss" xmlUrl="https://fontsinuse.com/main.rss"/>
+    <outline text="True Grit Texture Supply" title="True Grit Texture Supply" type="rss" xmlUrl="https://www.truegrittexturesupply.com/blogs/news.atom"/>
+    <outline text="Austin Kleon" title="Austin Kleon" type="rss" xmlUrl="https://austinkleon.substack.com/feed"/>
+    <outline text="CINEBEATS" title="CINEBEATS" type="rss" xmlUrl="https://cinebeats.wordpress.com/feed/"/>
+    <outline text="Nostalgia King" title="Nostalgia King" type="rss" xmlUrl="https://nostalgiaking.com/feed/"/>
+  </body>
+</opml>
